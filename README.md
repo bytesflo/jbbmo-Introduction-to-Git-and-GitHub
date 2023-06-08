@@ -10,4 +10,4 @@ The project is about calculator in which input are taken and its output is print
 # Output:
 # simple interest = p*t*r
 
-2021 XYZ, Inc.
+2022 XYZ, Inc.
